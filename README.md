@@ -78,7 +78,7 @@ The following **additional** features are implemented:
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
       <blockquote>
       If I had a few more hours to work on this project I would definitely work on allowing users to register and log in with their personal information.
-      I considered making a home page where players could choose many different levels and have the instruction page and other information on the home page, 
+      I also considered making a home page where players could choose many different levels and have the instruction page and other information on the home page, 
       but I didn't want to overcomplicate things mess with what I had, so I kept it the same and added a link to another page on the index.html page that
       contains instructions on how to play the game and a link to easy/hard page but if I had more time, I would have a home page and different branches from the
       home page. Another feature I wanted to include was to have dog sounds for each dog picture when pressing on a specific key instead of having a single tone.
