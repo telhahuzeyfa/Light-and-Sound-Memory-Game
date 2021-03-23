@@ -52,7 +52,7 @@ The following **additional** features are implemented:
    https://www.w3schools.com/html/html_lists.asp w3schools whenever i forgot some html syntax]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   <blockquote>
+  <blockquote>
   I would say the most challenging part that I have encountered when creating this submission is that I was a little rusty with some 
   of the concepts/strategies of web developments and had to figure them out on the way by using websites like w3schools.com. 
   In the past, I used python and flask to do projects like this and never used javascript to create interactive webpages so 
@@ -63,15 +63,15 @@ The following **additional** features are implemented:
   level they want to start if they find the default game too easy or difficult. The easy page only has four keys and less 
   complex and easy to remember patterns, while the hard page has eight keys and much more complicated combinations. 
   Working on this submission has taught me a lot of useful skills.
-   </blockquote>
+  </blockquote>
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   <blockquote>
+  <blockquote>
   I was wondering if I wanted to let players/users be able to login/ signup what would be the best way to store user information
   so that users can signup and login and be able to keep track of the levels to allow the website to track user actions and behavior 
   to provide a better experience to the user. I was thinking about using a structured query language, but I don't know if there's a 
   better way to do that for this specific project.  
-   </blockquote>
+  </blockquote>
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
       <blockquote>
