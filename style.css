@@ -1,0 +1,105 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: rgb(236, 171, 109);
+  color: white;
+}
+
+h1 {
+  font-style: normal;
+  color: #000000;
+}
+p {
+  color: #000000;
+}
+#startBtn {
+  width: 70px;
+  height: 40px;
+  background: green;
+}
+#stopBtn {
+  width: 70px;
+  height: 40px;
+  background: red;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width: 300px;
+  height: 300px;
+  margin: 2px;
+}
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+  border-radius: 50%;
+}
+
+#button1:active,
+#button1.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F1.jpeg?v=1616468613327");
+}
+#button2 {
+  background: lightblue;
+  border-radius: 50%;
+}
+
+#button2:active,
+#button2.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F2.jpeg?v=1616467344617");
+}
+#button3 {
+  background: #ffcccb;
+  border-radius: 50%;
+}
+
+#button3:active,
+#button3.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F3.jpeg?v=1616468695217");
+}
+#button4 {
+  background: rgb(230, 230, 115);
+  border-radius: 50%;
+}
+
+#button4:active,
+#button4.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F4.jpeg?v=1616467363869");
+}
+#button5 {
+  background: rgb(243, 169, 224);
+  border-radius: 50%;
+}
+
+#button5:active,
+#button5.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F5.jpeg?v=1616467385100");
+}
+#button6 {
+  background: rgba(62, 61, 63, 0.575);
+  border-radius: 50%;
+}
+
+#button6:active,
+#button6.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F6.jpeg?v=1616468790436");
+}
+
+#instructionId {
+  background: rgba(62, 61, 63, 0.575);
+}
+
+#instructionBackground {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: rgb(236, 171, 109);
+  color: black;
+}
