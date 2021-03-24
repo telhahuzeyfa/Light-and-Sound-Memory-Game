@@ -4,7 +4,7 @@
 
 Submitted by: **Huzeyfa Telha**
 
-Time spent: **4-5** hours spent in total
+Time spent: **5-6** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
-<img src="https://recordit.co/x3H85ZjUaa.gif" width=500><br>
+<img src="https://recordit.co/q4bGaNH0FU.gif" width=500><br>
 
 ## Reflection Questions
 

@@ -92,7 +92,22 @@ button {
 #button6.lit {
   background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F6.jpeg?v=1616468790436");
 }
-
+#button7 {
+  background: black;
+  border-radius: 50%;
+}
+#button7:active,
+#button7.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F7.jpeg?v=1616539650429");
+}
+#button8 {
+  background: white;
+  border-radius: 50%;
+}
+#button8:active,
+#button8.lit {
+  background-image: url("https://cdn.glitch.com/c41c0867-4aa7-45e4-aa45-5e5cc79efcf5%2F8.jpeg?v=1616539559505");
+}
 #instructionId {
   background: rgba(62, 61, 63, 0.575);
 }
@@ -102,4 +117,10 @@ button {
   margin: 2em;
   background-color: rgb(236, 171, 109);
   color: black;
+}
+#goBack{
+  background-color: rgb(55, 204, 55);
+  color: black;
+  width: 100px;
+  height: 50px;
 }

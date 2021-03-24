@@ -11,10 +11,10 @@
     <link rel="stylesheet" href="/style.css" />
 
     <!-- import the webpage's javascript file -->
-    <script src="/script.js" defer></script>
+    <script src="/hardPage.js" defer></script>
   </head>
   <body>
-    <h1><u>Light and Sound Memory Game</u></h1>
+    <h1><u>Light and Sound Memory Game - HARD!!!</u></h1>
 
     <p>
       <u>Welcome, repeat back the patterns by pressing buttons. Good Luck!!!</u>
@@ -26,9 +26,8 @@
       Stop
     </button>
     <li>
-        <a id="howToPlay" href="instruction.html">How to play</a><br>
-        <a id="easypage" href="easyPage.html">Link to easy page</a><br>
-        <a id="hardpage" href="hardPage.html">Link to hard page</a><br><br>
+      <a id="howToPlay" href="instruction.html">How to play</a><br>
+        <a id="easypage" href="easyPage.html">Link to easy page</a><br><br>
       <div id="gameButtonArea">
         <button
           id="button1"
@@ -66,6 +65,20 @@
           onmouseup="stopTone()"
           onclick="guess(6)">
         </button>
+        <button
+          id="button7"
+          onmousedown="startTone(7)"
+          onmouseup="stopTone()"
+          onclick="guess(7)">
+        </button>
+        <button
+          id="button8"
+          onmousedown="startTone(7)"
+          onmouseup="stopTone()"
+          onclick="guess(8)">
+        </button>
+        <br><br><br>
+        <a href="index.html" id="goBack">Link to go back! </a>
       </div>
       <!-- include the Glitch button to show what the webpage is about and
           to make it easier for folks to view source and remix -->
