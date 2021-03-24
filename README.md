@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
-<img src="https://recordit.co/x3H85ZjUaa.gif" width=200><br>
+<img src="https://recordit.co/x3H85ZjUaa.gif" width=500><br>
 
 ## Reflection Questions
 
