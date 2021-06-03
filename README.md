@@ -2,11 +2,6 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
-Submitted by: **Huzeyfa Telha**
-
-Time spent: **5-6** hours spent in total
-
-Link to project: https://glitch.com/edit/#!/memory-game-huzeyfa
 
 ## Required Functionality
 
